@@ -1,0 +1,20 @@
+/* 去掉表格表头右侧的小滚动条 */
+.ant-table-header::-webkit-scrollbar {
+  display: none;
+}
+
+/* 表格展开收缩按钮17px 不居中 调整为16px */
+.ant-table-row-expand-icon {
+  width: 16px !important;
+  height: 16px !important;
+}
+
+/* 去掉地图logo */
+.amap-logo,
+.amap-copyright {
+  display: none !important;
+}
+
+.ant-menu-item-selected {
+  background-color: #31C27C !important;
+}

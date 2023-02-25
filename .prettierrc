@@ -1,0 +1,7 @@
+{
+  "tabWidth": 2,
+  "endOfLine": "auto",
+  "printWidth": 200,
+  "semi": false,
+  "proseWrap": "never"
+}
